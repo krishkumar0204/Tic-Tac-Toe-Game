@@ -12,6 +12,10 @@ A classic Tic Tac Toe game built with modern web technologies.
 
 ## 🛠️ Technologies Used
 
-![HTML5]
-![CSS3]
-![JavaScript]
+HTML5,
+CSS3,
+JavaScript
+
+##  📷 Screenshot
+
+![image alt]( https://github.com/krishkumar0204/Tic-Tac-Toe-Game/blob/192c594f96f1c7f2816a5a5489c209fd42e314ca/Screenshot.png)
