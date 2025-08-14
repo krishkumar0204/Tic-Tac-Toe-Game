@@ -66,3 +66,92 @@ h1 {
 .hide {
   display: none;
 }
+
+/* Responsive styles */
+@media (max-width: 900px) {
+  h1 {
+    font-size: 2.2rem;
+    margin-top: 30px;
+  }
+  .game-container {
+    height: auto;
+    padding: 20px 0;
+  }
+  .game {
+    height: 80vw;
+    width: 80vw;
+    gap: 7px;
+  }
+  .box {
+    height: 24vw;
+    width: 24vw;
+    font-size: 2rem;
+  }
+  .msg {
+    font-size: 2.2rem;
+    margin-top: 120px;
+  }
+  .reset-btn,
+  .new-btn {
+    font-size: 17px;
+    width: 150px;
+    height: 50px;
+    padding: 12px;
+  }
+}
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 1.7rem;
+    margin-top: 20px;
+  }
+  .game {
+    height: 95vw;
+    width: 95vw;
+    gap: 5px;
+  }
+  .box {
+    height: 29vw;
+    width: 29vw;
+    font-size: 2.5rem;
+  }
+  .msg {
+    font-size: 1.5rem;
+    margin-top: 60px;
+  }
+  .reset-btn,
+  .new-btn {
+    font-size: 20px;
+    width: 180px;
+    height: 60px;
+    padding: 15px;
+  }
+}
+
+@media (max-width: 400px) {
+  h1 {
+    font-size: 1.2rem;
+    margin-top: 10px;
+  }
+  .game {
+    height: 98vw;
+    width: 98vw;
+    gap: 3px;
+  }
+  .box {
+    height: 31vw;
+    width: 31vw;
+    font-size: 3rem;
+  }
+  .msg {
+    font-size: 1.2rem;
+    margin-top: 30px;
+  }
+  .reset-btn,
+  .new-btn {
+    font-size: 22px;
+    width: 95vw;
+    height: 65px;
+    padding: 18px;
+  }
+}
