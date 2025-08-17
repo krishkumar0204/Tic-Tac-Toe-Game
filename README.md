@@ -18,4 +18,4 @@ JavaScript
 
 ##  📷 Screenshot
 
-![image alt]( https://github.com/krishkumar0204/Tic-Tac-Toe-Game/blob/192c594f96f1c7f2816a5a5489c209fd42e314ca/Screenshot.png)
+![Tic-Tac-Toe]( https://github.com/krishkumar0204/Tic-Tac-Toe-Game/blob/192c594f96f1c7f2816a5a5489c209fd42e314ca/Screenshot.png)
